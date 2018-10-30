@@ -1,5 +1,5 @@
-npm init lol
+1) npm i
 
-use npm test
+2) use npm test
 
-change SITE_LOCATION at line 15 if you want the landing page to be not localhost:3000
+optional) change SITE_LOCATION at line 15 if you want the landing page to be not localhost:3000
