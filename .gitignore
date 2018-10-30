@@ -1,1 +1,4 @@
 node_modules/
+all.log
+error.log
+tester.txt
