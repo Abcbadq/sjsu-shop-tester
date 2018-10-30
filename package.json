@@ -1,0 +1,16 @@
+{
+  "name": "sjsu_shop_tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "puppeteer": "^1.9.0",
+    "winston": "^3.1.0"
+  }
+}
